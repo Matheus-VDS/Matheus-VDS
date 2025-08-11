@@ -11,7 +11,7 @@ Sou desenvolvedor backend com sólida experiência no desenvolvimento de soluç�
 - 🤖 Conhecimento em **RPA** para automação de tarefas repetitivas e otimização de fluxos de trabalho
 - 📊 Experiência em **análise de dados** para extração de insights e suporte à tomada de decisão
 - 📈 Participação em trabalhos acadêmicos de **avaliação heurística** e usabilidade de interfaces
-- 🔍 Foco na qualidade do código, uso de **testes automatizados** e práticas de **CI/
+- 🔍 Foco na qualidade do código, uso de **testes automatizados** e práticas de **CI/CD**
 
 ---
 
