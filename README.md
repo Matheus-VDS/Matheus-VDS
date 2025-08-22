@@ -1,17 +1,16 @@
 # 👋 Olá, eu sou o Matheus Vieira
 
-Sou desenvolvedor backend com sólida experiência no desenvolvimento de soluções web, integrações com APIs, automação de processos e análise de dados. Já atuei em projetos que vão desde sistemas corporativos em **ASP.NET Core** até dashboards interativos com **Python** e automações usando **RPA** e **n8n**. Tenho facilidade em trabalhar com diferentes bancos de dados, modelagem de informações e aplicação de boas práticas de desenvolvimento, sempre buscando entregar soluções escaláveis, eficientes e com foco na experiência do usuário.
+Sou desenvolvedor backend com sólida experiência no desenvolvimento de soluções web, integrações com APIs, automação de processos e análise de dados. Já atuei em projetos que vão desde sistemas corporativos em **ASP.NET Core** até dashboards interativos com **Python** e automações usando **RPA** e **N8N**. Tenho facilidade em trabalhar com diferentes bancos de dados, modelagem de informações e aplicação de boas práticas de desenvolvimento, sempre buscando entregar soluções escaláveis, eficientes e com foco na experiência do usuário.
 
 ---
 
 ## 🚀 Sobre mim
 - 🎓 Formado em **Ciência da Computação**
-- 🖥 Experiência com **C# / ASP.NET Core**, **Python** (FastAPI, Django), **Node.js / ExpressJS**
+- 🖥 Experiência com **C# / ASP.NET Core**, **Python** (Django), **Node.js**
 - 🛠 Atuação em **projetos reais** envolvendo APIs, integração com bancos de dados e dashboards analíticos
 - 🤖 Conhecimento em **RPA** para automação de tarefas repetitivas e otimização de fluxos de trabalho
 - 📊 Experiência em **análise de dados** para extração de insights e suporte à tomada de decisão
-- 📈 Participação em trabalhos acadêmicos de **avaliação heurística** e usabilidade de interfaces
-- 🔍 Foco na qualidade do código, uso de **testes automatizados** e práticas de **CI/CD**
+- 🔍 Atualmente estudando **testes automatizados** e práticas de **CI/CD**, e me aprofundo em ferramentas como K8S, AWS e RabbitMQ
 
 ---
 
@@ -21,7 +20,6 @@ Sou desenvolvedor backend com sólida experiência no desenvolvimento de soluç�
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -35,13 +33,11 @@ Sou desenvolvedor backend com sólida experiência no desenvolvimento de soluç�
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![n8n](https://img.shields.io/badge/-n8n-000000?logo=n8n&logoColor=white&style=for-the-badge)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=powerautomate&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
 
 ---
 
 ## 📌 Projetos em Destaque
-- **📊 Dashboard Premier League** — Coleta dados de API, armazena em SQLite e exibe estatísticas no Streamlit.  
 - **🌿 Pantanal.dev** — Plataforma de divulgação e incentivo à tecnologia na região do Pantanal, reunindo projetos e iniciativas open source.  
 - **💰 FluxoCaixa** — Sistema de gestão financeira em ASP.NET Core MVC com autenticação e controle de lançamentos.  
 - **🦷 Clínica Odontológica Console** — Aplicação em C# para gerenciamento de pacientes e agendamentos.
@@ -49,6 +45,5 @@ Sou desenvolvedor backend com sólida experiência no desenvolvimento de soluç�
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/matheus-vds)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:matt.vds13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/matheus-vds)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:matt.vds13@gmail.com)
 
