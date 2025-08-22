@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus Vieira
 
-Sou desenvolvedor backend com sólida experiência no desenvolvimento de soluções web, integrações com APIs, automação de processos e análise de dados. Já atuei em projetos que vão desde sistemas corporativos em **ASP.NET Core** até dashboards interativos com **Python** e automações usando **RPA** e **N8N**. Tenho facilidade em trabalhar com diferentes bancos de dados, modelagem de informações e aplicação de boas práticas de desenvolvimento, sempre buscando entregar soluções escaláveis, eficientes e com foco na experiência do usuário.
+Sou desenvolvedor fullstack com foco em backend e sólida experiência no desenvolvimento de aplicações web, integrações com APIs, automação de processos e análise de dados. Já atuei em projetos que vão desde sistemas corporativos em **ASP.NET Core** até dashboards interativos com **Python** e automações usando **RPA** e **N8N**. Tenho facilidade em trabalhar com diferentes bancos de dados, modelagem de informações e aplicação de boas práticas de desenvolvimento, sempre buscando entregar soluções escaláveis, eficientes e com foco na experiência do usuário.
 
 ---
 
