@@ -40,7 +40,6 @@ Sou desenvolvedor fullstack com foco em backend e sólida experiência no desenv
 ## 📌 Projetos em Destaque
 - **🌿 Pantanal.dev** — Plataforma de divulgação e incentivo à tecnologia na região do Pantanal, reunindo projetos e iniciativas open source.  
 - **💰 FluxoCaixa** — Sistema de gestão financeira em ASP.NET Core MVC com autenticação e controle de lançamentos.  
-- **🦷 Clínica Odontológica Console** — Aplicação em C# para gerenciamento de pacientes e agendamentos.
 
 ---
 
