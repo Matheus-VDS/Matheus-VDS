@@ -1,16 +1,16 @@
 # 👋 Olá, eu sou o Matheus Vieira
 
-Sou desenvolvedor fullstack com foco em backend e sólida experiência no desenvolvimento de aplicações web, integrações com APIs, automação de processos e análise de dados. Já atuei em projetos que vão desde sistemas corporativos em **ASP.NET Core** até dashboards interativos com **Python** e automações usando **RPA** e **N8N**. Tenho facilidade em trabalhar com diferentes bancos de dados, modelagem de informações e aplicação de boas práticas de desenvolvimento, sempre buscando entregar soluções escaláveis, eficientes e com foco na experiência do usuário.
+Sou desenvolvedor fullstack com foco em backend e experiência no desenvolvimento de aplicações web, integrações com APIs, automação de processos e análise de dados. Já atuei em projetos que vão desde sistemas corporativos em **ASP.NET Core** até dashboards interativos com **Python** e automações usando **N8N**. Tenho facilidade em trabalhar com diferentes bancos de dados, modelagem de informações e aplicação de boas práticas de desenvolvimento, sempre buscando entregar soluções escaláveis, eficientes e com foco na experiência do usuário.
 
 ---
 
 ## 🚀 Sobre mim
 - 🎓 Formado em **Ciência da Computação**
-- 🖥 Experiência com **C# / ASP.NET Core**, **Python** (Django), **Node.js**
-- 🛠 Atuação em **projetos reais** envolvendo APIs, integração com bancos de dados e dashboards analíticos
+- 🖥 Experiência com **C# / ASP.NET Core**, **Python**, **Node.js** e **Javascript**
+- 🛠 Atuação em projetos reais envolvendo APIs, integração com bancos de dados e dashboards analíticos
 - 🤖 Conhecimento em **RPA** para automação de tarefas repetitivas e otimização de fluxos de trabalho
 - 📊 Experiência em **análise de dados** para extração de insights e suporte à tomada de decisão
-- 🔍 Atualmente estudando **testes automatizados** e práticas de **CI/CD**, e me aprofundo em ferramentas como K8S, AWS e RabbitMQ
+- 🔍 Atualmente estudando **testes automatizados** e práticas de **CI/CD**, e me aprofundando em ferramentas como AWS e RabbitMQ
 
 ---
 
