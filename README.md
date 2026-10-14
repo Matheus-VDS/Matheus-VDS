@@ -6,11 +6,11 @@ Sou desenvolvedor fullstack com foco em backend e experiência no desenvolviment
 
 ## 🚀 Sobre mim
 - 🎓 Formado em **Ciência da Computação**
-- 🖥 Experiência com **C# / ASP.NET Core**, **Python**, **Node.js** e **Javascript**
+- 🖥 Experiência com **C# / ASP.NET Core**, **Python** e **Javascript**
 - 🛠 Atuação em projetos reais envolvendo APIs, integração com bancos de dados e dashboards analíticos
 - 🤖 Conhecimento em **RPA** para automação de tarefas repetitivas e otimização de fluxos de trabalho
 - 📊 Experiência em **análise de dados** para extração de insights e suporte à tomada de decisão
-- 🔍 Atualmente estudando **testes automatizados** e práticas de **CI/CD**, e me aprofundando em ferramentas como AWS e RabbitMQ
+- 🔍 Atualmente estudando **testes automatizados** e práticas de **CI/CD**.
 
 ---
 
